@@ -1,21 +1,18 @@
 
 [
     {
-        "cod1":"Teste1"
-    },
-
-        {
-        "cod2":"Teste2"
-    },
-
-        {
-        "cod3":"Teste3"
-    },
-        {
-        "cod4":"Teste4"
+        "codigo": 1,
+        "materia": "Matematica",
+        "link": "https://www.google.com",
     },
     {
-        "cod5":"Teste5"
+        "codigo": 2,
+        "materia": "Porguês",
+        "link": "https://www.google.com",
+    },
+    {
+        "codigo": 3,
+        "materia": "Ed. Física",
+        "link": "https://www.google.com",
     }
-
 ]
