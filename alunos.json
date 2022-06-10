@@ -3,27 +3,27 @@
         {
             "codigo": 1,
             "materia": "Matematica",
-            "link": "https://www.google.com"
+            "link": "https://download.inep.gov.br/educacao_basica/encceja/material_estudo/livro_estudante/matematica_ens_fund.pdf"
         },
         {
             "codigo": 2,
             "materia": "Porguês",
-            "link": "https://www.google.com"
+            "link": "https://download.inep.gov.br/educacao_basica/encceja/material_estudo/livro_estudante/lingua_portuguesa.pdf"
         },
         {
             "codigo": 3,
             "materia": "Ed. Física",
-            "link": "https://www.google.com"
+            "link": "http://portal.mec.gov.br/docman/dezembro-2010-pdf/7170-3-6-educacao-fisica-ensino-fundamental-walter-bracht/file"
         }
     ],
     "disciplinasOfertadas": [
         {
             "materia": "Ed. Financeira",
-            "link": "https://www.google.com"
+            "link": "https://www.institutoclaro.org.br/wp-content/uploads/legado/fckeditor/file/professor_b1_2014%20(1).pdf"
         },
         {
             "materia": "Física",
-            "link": "https://www.google.com"
+            "link": "file:///home/mbairo/Downloads/caderno_fisica.pdf"
         }
     ]
 }
