@@ -18,12 +18,10 @@
     ],
     "disciplinasOfertadas": [
         {
-            "codigo": 4,
             "materia": "Ed. Financeira",
             "link": "https://www.google.com"
         },
         {
-            "codigo": 5,
             "materia": "Física",
             "link": "https://www.google.com"
         }
