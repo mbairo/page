@@ -1,5 +1,5 @@
   {
-   "cartas":[
+   "cards":[
       {
         "foto": "../assets/criancas-comunicados.jpg",
         "cardTitle": "Semana de provas!",
@@ -7,31 +7,31 @@
         "linkSaibaMais": "Saiba mais..."
       },
       {
-        "foto": "../assets/criancas-comunicados.jpg",
+        "foto": "../assets/ingles.jpeg",
         "cardTitle": "Semana de provas!",
         "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
         "linkSaibaMais": "Saiba mais..."
       },
       {
-        "foto": "../assets/criancas-comunicados.jpg",
+        "foto": "../assets/biblioteca.webp",
         "cardTitle": "Semana de provas!",
         "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
         "linkSaibaMais": "Saiba mais..."
       },
       {
-        "foto": "../assets/criancas-comunicados.jpg",
+        "foto": "../assets/curitiba.png",
         "cardTitle": "Semana de provas!",
         "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
         "linkSaibaMais": "Saiba mais..."
       },
       {
-        "foto": "../assets/criancas-comunicados.jpg",
+        "foto": "../assets/independencia.webp",
         "cardTitle": "Semana de provas!",
         "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
         "linkSaibaMais": "Saiba mais..."
       },
       {
-        "foto": "../assets/criancas-comunicados.jpg",
+        "foto": "../assets/atencao.webp",
         "cardTitle": "Semana de provas!",
         "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
         "linkSaibaMais": "Saiba mais..."
