@@ -1,4 +1,40 @@
   {
-    "cardTitle": "Semana de provas!"
-  }
-
+   "cartas":[
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      },
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      },
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      },
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      },
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      },
+      {
+        "foto": "../assets/criancas-comunicados.jpg",
+        "cardTitle": "Semana de provas!",
+        "cardText": "Fique atento! As provas vão do dia 22 de junho até o dia 1 de julho. Não deixe para revisar na última hora e bons estudos!",
+        "linkSaibaMais": "Saiba mais..."
+      }
+   ]
+}
