@@ -2,6 +2,12 @@
     {
         "codControle": 4,
         "descricao": 7,
+        "mes": "Arrumar o erro no loop - Indice do array",
+        "statusPagamento": "Arrumar depois**********"
+    },
+    {
+        "codControle": 4,
+        "descricao": 7,
         "mes": "Mensalidade",
         "statusPagamento": "Pagar"
     },
