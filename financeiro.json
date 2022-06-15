@@ -1,28 +1,24 @@
 [
     {
-        "codControle": 5,
-        "descricao": "Junho",
-        "mes": "Indice 0 apenas para resolver o problema no loop",
-        "valor": "R$ 1.500,00",
-        "statusPagamento": "Pagar"
+      "Erro":"Indice 0 apenas para resolver o problema no loop (Dom). Corrigir depois..."
     },
     {
         "codControle": 4,
-        "descricao": Maio,
+        "descricao": "Maio",
         "mes": "Mensalidade",
         "valor": "R$ 1.500,00",
         "statusPagamento": "Pagar"
     },
     {
       "codControle": 3,
-      "descricao": Abril,
+      "descricao": "Abril",
       "mes": "Mensalidade",
       "valor": "R$ 1.500,00",
       "statusPagamento": "Pago"
     },
     {
       "codControle": 2,
-      "descricao": Março,
+      "descricao": "Março",
       "mes": "Mensalidade",
       "valor": "R$ 1.500,00",
       "statusPagamento": "Pago"
@@ -35,4 +31,4 @@
       "statusPagamento": "Pago"
     }
 ]
-  
+
