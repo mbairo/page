@@ -3,7 +3,7 @@
         {
             "codigo": 1,
             "materia": "Matematica",
-            "link": "https://download.inep.gov.br/educacao_basica/encceja/material_estudo/livro_estudante/matematica_ens_fund.pdf"
+            "link": "https://download.inep.gov.br/educacao_basica/encceja/material_estudo/livro_estudante/matematica_ens_fund.pdfz"
         },
         {
             "codigo": 2,
@@ -19,11 +19,11 @@
     "disciplinasOfertadas": [
         {
             "materia": "Ed. Financeira",
-            "link": "https://www.institutoclaro.org.br/wp-content/uploads/legado/fckeditor/file/professor_b1_2014%20(1).pdf"
+            "link": "../matricula/matriculaextra.html"
         },
         {
             "materia": "Róbotica",
-            "link": "https://repositorio.unisc.br/jspui/bitstream/11624/1811/1/Introduzindo%20a%20Rob%C3%B3tica%20na%20Escola.pdf"
+            "link": "https://matheusromano.github.io/projeto-saberes-do-amanha-v2/matricula/matriculaextra.html"
         }
     ]
 }
