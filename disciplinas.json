@@ -23,7 +23,7 @@
         },
         {
             "materia": "Róbotica",
-            "link": "https://matheusromano.github.io/projeto-saberes-do-amanha-v2/matricula/matriculaextra.html"
+            "link": "../matricula/matriculaextra.html"
         }
     ]
 }
